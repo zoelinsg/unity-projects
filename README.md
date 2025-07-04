@@ -39,6 +39,6 @@
 #### 2. 克隆專案
 使用 Git 下載專案：
 ```sh
-git clone https://github.com/zoelinsg/Unity-Projects.git
+git clone https://github.com/zoelinsg/unity-projects.git
 ```
 
